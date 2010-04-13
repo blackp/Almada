@@ -1,0 +1,6 @@
+EngineType: ParticleFilter
+
+PositionFilter:
+
+name: mean
+

@@ -1,0 +1,6 @@
+EngineType: LocationEngineMatch
+
+PositionFilter:
+
+name: mean
+
